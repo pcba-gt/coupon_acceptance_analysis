@@ -25,33 +25,33 @@ This dataset comes from a survey conducted via Amazon Mechanical Turk, describin
 - Coffee House coupons were issued most often; Expensive Restaurant coupons least often
 - Most scenarios occurred at 80°F, so cold-weather scenarios are underrepresented
 
-![Coupon type distribution](coupon-col-visual-sns.png)
+![Coupon type distribution](images/coupon-col-visual-sns.png)
 
 ## Bar Coupons (41% baseline acceptance)
 
 Driven overwhelmingly by existing habit. Frequent bar-goers (>1x/month) accepted more than double the rate of infrequent visitors (77% vs. 34%), a gap that held even after controlling for age. Passenger context mattered nearly as much: even frequent bar-goers accepted far less with a kid in the car (38% vs. 71%). Age had a smaller, secondary effect (72% vs. 64%, under 30 vs. 30+).
 
-![Bar acceptance by habit](bar_habit_comparison.png)
+![Bar acceptance by habit](images/bar_habit_comparison.png)
 
 ## Coffee House Coupons (50% baseline acceptance)
 
 Habit mattered, but less than for bars (68% vs. 45%). Time of day was a stronger driver. Acceptance peaked at 10AM (64%) and dropped by evening (41% at 6PM). Drivers under 21 accepted notably more often (70%) than any other age group (47-52%). Driving alone had the lowest acceptance (44%); driving with friends had the highest (60%), with no penalty for a child passenger.
 
-![Coffee acceptance by time of day](coffee_time_of_day.png)
-![Coffee acceptance by age](coffee_age.png)
+![Coffee acceptance by time of day](images/coffee_time_of_day.png)
+![Coffee acceptance by age](images/coffee_age.png)
 
 ## Cheap Restaurant (<$20) Coupons (71% baseline acceptance)
 
 Accepted broadly regardless of habit or income (73% vs. 69% frequent vs. infrequent; no meaningful difference when combined with income). Timing and company mattered instead. Acceptance peaked around lunch and dinner (81-83% at 2PM/6PM), dropping at off-meal hours (50-58% at 7AM/10PM). Like coffee, company raised acceptance, with no penalty for a kid passenger.
 
-![Restaurant acceptance by time of day](cheapRest_time_of_day.png)
-![Restaurant acceptance by passenger type](cheapRest_passengerType.png)
+![Restaurant acceptance by time of day](images/cheapRest_time_of_day.png)
+![Restaurant acceptance by passenger type](images/cheapRest_passengerType.png)
 
 ## Additional Finding: Temperature
 
 Across all coupon types combined, acceptance was similar at 30°F (53.1%) and 55°F (53.6%), but slightly higher at 80°F (60.0%). This is a modest ~7 point effect, smaller than habit or passenger-type effects, but consistent across a large sample (2,300-6,500 observations per temperature). A plausible explanation is that drivers are more willing to make a detour in nicer weather.
 
-![Coupon acceptance by temperature](temperature_acceptance.png)
+![Coupon acceptance by temperature](images/temperature_acceptance.png)
 
 ## Conclusion
 
