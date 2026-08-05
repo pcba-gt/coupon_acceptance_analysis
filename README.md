@@ -6,7 +6,7 @@ Exploratory data analysis of the UCI in-vehicle coupon recommendation dataset, e
 
 ## Overview
 
-This dataset comes from a survey conducted via Amazon Mechanical Turk, describing driving scenarios (destination, weather, time of day, passenger, coupon type) and whether the respondent said they would accept the coupon. This analysis explores overall acceptance patterns, then dives deeper into three coupon types — **Bar**, **Coffee House**, and **Restaurant (<$20)** — to see what drives acceptance for each.
+This dataset comes from a survey conducted via Amazon Mechanical Turk, describing driving scenarios (destination, weather, time of day, passenger, coupon type) and whether the respondent said they would accept the coupon. This analysis explores overall acceptance patterns, then dives deeper into three coupon types (**Bar**, **Coffee House**, and **Restaurant (<$20)**) to see what drives acceptance for each.
 
 ## Data
 
